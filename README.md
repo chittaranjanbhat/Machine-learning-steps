@@ -3,12 +3,6 @@
 Drafting you the steps & corresponding sample code. 
 Expectation  : Implement it for Customer Churn (Only consolidated Account Table) - we are already getting 87% accuracy for churn, let's see how much you can get :-) 
 
-Team
-EDA	Niteeka + Sujith
-Feature Engineering	Chirag + Santosh
-Feature Selection 	Chittu + Fiaz
-Model Building 	Chittu + Fiaz
-
 Part 1: EDA 
 
 Source table: SB.LAB_LS.COAF_ACCT_CHURN_ML_POC_20181205
